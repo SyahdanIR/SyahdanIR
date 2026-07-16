@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Syahdan
 
-<!--
-**SyahdanIR/SyahdanIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer passionate about building scalable web and mobile applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Next.js
+- React Native
+- Express.js
+- Laravel
+- TypeScript
+- PostgreSQL
+- Prisma
+- Tailwind CSS
+
+## 📌 Featured Projects
+
+- AntiSocial
+- AntiSocial Analytics Mobile
+- HR Management System
+- Receiptly
+- Jawa Warrior
+
+## 📫 Connect with me
+
+- Portfolio: https://syahdanportfolio.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/syahdan-izzur-rosuli/
+- Email: izzursyahdan@gmail.com
