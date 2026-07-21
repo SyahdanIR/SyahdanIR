@@ -51,17 +51,6 @@
 | **Receiptly** | Receipt scanning and expense tracking application using OCR technology. | Next.js, Supabase |
 | **Jawa Warrior** | 2D adventure game inspired by Indonesian culture. | Unity |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
