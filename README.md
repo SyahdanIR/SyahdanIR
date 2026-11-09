@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Fresh Graduate in Informatics Engineering
+- 🎓 Bachelor of Computer Science
 - 💻 Interested in Full Stack Web & Mobile Development
 - 🌱 Currently learning advanced system architecture and cloud deployment
 - 🚀 Love turning ideas into real-world applications
